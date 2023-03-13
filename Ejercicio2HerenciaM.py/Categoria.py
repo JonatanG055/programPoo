@@ -24,4 +24,4 @@ class Terror(Categoria):
         super().__init__("Terror")
     
     def mostrar_peliculas(self):
-        print("1.Halloween")
+        print("1.Halloweenn")
